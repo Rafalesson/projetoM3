@@ -1,4 +1,4 @@
-## Bem-vindos e bem-vindas ao **Projeto de Banco de Dados do Grupo 6 - T15 **do Curso de Desenvolvimento Web da Resília. Nosso grupo é composto por @rafalesson, @raqueueuel, Daniel Gomes e Caio Corrêa e você stá acessando a **Documentação**. Caso queira checar os *requirements,* clique [aqui.](https://projeto-banco-de-dados-m3.readme.io/docs/requirements)
+## Bem-vind@s ao **Projeto de Banco de Dados do Grupo 6 - T15 **do Curso de Desenvolvimento Web da Resília. Nosso grupo é composto por @rafalesson, @raqueueuel, Daniel Gomes e Caio Corrêa e você stá acessando a **Documentação**. Caso queira checar os *requirements,* clique [aqui.](https://projeto-banco-de-dados-m3.readme.io/docs/requirements)
 ##
 
 # 📝 Escolha do Banco de Dados 
