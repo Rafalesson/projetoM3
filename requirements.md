@@ -7,4 +7,3 @@ Arquivo com importação das tabelas e consultas realizadas.
 
 * Documentação do projeto 
 
-* Requirements
