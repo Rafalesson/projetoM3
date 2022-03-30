@@ -1,5 +1,5 @@
 # GOT'S PLAN
-### Repositório criado no intuito de guardar o projeto final do módulo III do curso de Desenvolvimento Web FullStack da Resilia - *Banco de Dados MySQL.* Caso queira checar o resultado das *consultas* do projeto, [clique aqui.](https://github.com/Rafalesson/projetoM3/tree/main/GOT/views)
+### Repositório criado no intuito de guardar o projeto final do módulo III do curso de Desenvolvimento Web FullStack da Resilia - *Banco de Dados MySQL.* Caso queira checar o resultado das *consultas* do projeto, [clique aqui.](https://github.com/Rafalesson/projetoM3/tree/main/GOT/resultado-visual-view)
 #### Grupo 6: Rafa Alesson e Raquel Dantas. 
 ##  📝 Escolha do Banco de Dados 
 
