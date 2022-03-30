@@ -1,8 +1,7 @@
+/* Qual o nome das Casas desconhecidas? */
+
 create view casasDesconhecidas as
+select * from casas 
+where Region like 'Unkno%';
 
-/* Qual o número total de Casas desconhecidas? */
-select count(Region) 
-from casas 
-where Region = 'Unknown';
-
-select * from casasDesconhecidas
+select * from casasdesconhecidas;
