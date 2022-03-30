@@ -11,6 +11,8 @@ A proposta desse projeto é criar uma análise exploratória de acordo com os da
 * Rank dos episódios melhor avaliados;
 * Episódios que receberam nota menor que 7;
 * Episódios que receberam nota maior que 7;
+* Regiões mais populosas;
+* Personagens que mais aparecem. 
 
 
 ## 📝 Metodologias Ágeis 
