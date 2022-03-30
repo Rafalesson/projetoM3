@@ -5,10 +5,12 @@
 
 A proposta desse projeto é criar uma análise exploratória de acordo com os dados obtidos da série Game of Thrones. Para tanto, criamos uma abordagem por via relacional que buscou responder:
 
-* Porcentagem de casas por região;
-* Ranking das casas que mais aparecem nos episódios;
-* Casas mais populosas;
-* Rank dos episódios mais avaliados.
+* Nome de todas as Casas e suas respectivas regiões em ordem decrescente;
+* Qual o número total de Casas desconhecidas;
+* Rank dos episódios pior avaliados;
+* Rank dos episódios melhor avaliados;
+* Episódios que receberam nota menor que 7;
+* Episódios que receberam nota maior que 7;
 
 
 ## 📝 Metodologias Ágeis 
