@@ -1,5 +1,5 @@
 # GOT'S PLAN
-### Repositório criado no intuito de guardar o projeto final do módulo III do curso de Desenvolvimento Web da Resilia - *Banco de Dados MySQL.* Caso queira checar os *requirements*, [clique aqui.](https://projeto-banco-de-dados-m3.readme.io/docs/requirements)
+### Repositório criado no intuito de guardar o projeto final do módulo III do curso de Desenvolvimento Web da Resilia - *Banco de Dados MySQL.* Caso queira checar os *requirements*, [clique aqui.](https://github.com/Rafalesson/projetoM3/blob/main/requirements.md)
 #### Grupo 6: Rafa Alesson, Raquel Dantas, Daniel Gomes e Caio Corrêa. 
 ##  📝 Escolha do Banco de Dados 
 
