@@ -1,7 +1,7 @@
 # GOT'S PLAN
 ### Repositório criado no intuito de guardar o projeto final do módulo III do curso de Desenvolvimento Web FullStack da Resilia - *Banco de Dados MySQL.* Caso queira checar o resultado das *consultas* do projeto, [clique aqui.](https://github.com/Rafalesson/projetoM3/tree/main/GOT/resultado-visual-view)
 #### Grupo 6: Rafa Alesson e Raquel Dantas. 
-##  📝 Escolha do Banco de Dados 
+##  📝 Contexto
 
 A proposta desse projeto é criar uma análise exploratória de acordo com os dados obtidos da série Game of Thrones. Para tanto, criamos uma abordagem por via relacional que buscou responder:
 
@@ -14,6 +14,9 @@ A proposta desse projeto é criar uma análise exploratória de acordo com os da
 * Regiões mais populosas;
 * Personagens que mais aparecem. 
 
+
+## 📝 Tecnologia
+- MySQL
 
 ## 📝 Metodologias Ágeis 
 
