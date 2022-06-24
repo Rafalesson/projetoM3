@@ -17,8 +17,6 @@ A proposta desse projeto é criar uma análise exploratória de acordo com os da
 
 ## 📝 Metodologias Ágeis 
 
-Não conseguiríamos realizar esse projeto se não fossem as metodologias ágeis! Nos apoiamos no: 
-
 * **Trello** (e seu painel Kanban);
 * **Jira Software** (com o planejamento das sprints).
 
